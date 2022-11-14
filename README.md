@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gcaramori
-- 👀 I’m interested in React
+# Hi, i'm Guilherme Caramori 👋
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based on Brazil.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcaramori)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gcaramori)](https://git.io/streak-stats)
