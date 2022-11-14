@@ -1,5 +1,5 @@
 # Hi, i'm Guilherme Caramori 👋
-<div align="center" id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/gcaramori/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,9 +9,6 @@
   <a href="https://www.instagram.com/gcaramori">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://d3983jaouwt2wi.cloudfront.net/assets/github_readme_main_picture.png" width="600" height="330"/>
 </div>
 
 ## About me
