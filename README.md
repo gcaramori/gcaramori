@@ -16,7 +16,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 👨‍💻 I'm working as a FullStack Developer at <a href="https://performa.ai">Performa.AI</a> designing new products and innovations and i'm also a freelancer.
 - 🌱 Focused on developing React applications and Shopify apps.
-- ⚡ In my free time i like to read mangá and hang around with my wife and friends.
+- 💗 Love my family, friends, technology, music, movies, eating and reading mangá.
 
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcaramori)](https://github.com/anuraghazra/github-readme-stats)
