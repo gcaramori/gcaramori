@@ -14,7 +14,7 @@
 ## About me
 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based on Brazil.
 
-- 👨‍💻 I'm working as a FullStack Developer at <a href="https://performa.ai">Performa.AI</a> designing new products and innovations and i'm also a freelancer.
+- 👨‍💻 I'm working as Sênior FullStack Developer at <a href="https://performa.ai">Performa.AI</a> designing new products and innovations and i'm also a freelancer.
 - 🌱 Focused on developing Next.JS/React applications with Typescript.
 - 💗 Love my family, friends, technology, music, movies, eating and reading mangá.
 
