@@ -19,5 +19,4 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 💗 Love my family, friends, technology, music, movies, eating and reading mangá.
 
 ## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcaramori)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gcaramori)](https://git.io/streak-stats)
